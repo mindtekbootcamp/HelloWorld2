@@ -5,6 +5,8 @@ public class TestClass2 {
         System.out.println("Hello world");
 
         System.out.println("End");
+
+        System.out.println("Decoda's edit");
     }
 
 }
